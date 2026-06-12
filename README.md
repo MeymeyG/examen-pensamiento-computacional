@@ -1,1 +1,0 @@
-# examen-pensamiento-computacional
