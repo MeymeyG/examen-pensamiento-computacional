@@ -8,7 +8,7 @@ Amor Etèreo
 
 ### Imagen de referencia de proyecto
 
-![AmorEtereo](./IMG/Amor etèreo.png)
+![AmorEtereo](./IMG/Amor.png)
 
 ### Integrantes
 
