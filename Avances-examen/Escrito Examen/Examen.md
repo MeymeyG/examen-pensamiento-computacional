@@ -6,6 +6,7 @@
 Amor Etèreo
 
 ### Imagen de referencia de proyecto
+[pagina aqui](https://meymeyg.github.io/examen-pensamiento-computacional/)
 
 ![Amor](./IMG/Amor.png)
 
