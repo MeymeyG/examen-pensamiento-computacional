@@ -2,7 +2,7 @@
 # Examen
 
 
-### Título del proyecto
+## Título del proyecto
 
 Amor Etèreo
 
@@ -23,9 +23,9 @@ Maira Ramirez S. [MeymeyG](https://github.com/MeymeyG)
 "A" esta en el centro y a su alrededor le prohiben cosas, luego aparece un texro(referente a el poema), "A" observa desde el cielo a "D", Vemos a "D" de cerca, "A" baja desde el cielo para encontrarse con "D"
 ### Storyboard
 
-Imágenes del storyboard, las que deben verse acá y estar subidas en el mismo repositorio
+![StoryBoard](./IMG/Story.jpeg)
 
-### Estados
+## Estados
 
 #### Estado 1
 “A” está en una escena oscura. Al hacer clic en la pantalla, empiezan a aparecer “Nos” en distintas posiciones. Con cada clic, aparecen más y la pantalla se va oscureciendo progresivamente. Cuando se llega a 35 clics, se pasa al siguiente estado.
