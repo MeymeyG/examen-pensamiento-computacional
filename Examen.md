@@ -16,8 +16,7 @@ Maira Ramirez S. [MeymeyG](https://github.com/MeymeyG)
 
 ### Enlace de p5.js 
 
-<https://editor.p5js.org](https://editor.p5js.org/May_R/sketches/Oee5swvf0>
-
+<[https://editor.p5js.org](https://editor.p5js.org/May_R/sketches/Oee5swvf0)
 ### Relato inicial
 
 "A" esta en el centro y a su alrededor le prohiben cosas, luego aparece un texro(referente a el poema), "A" observa desde el cielo a "D", Vemos a "D" de cerca, "A" baja desde el cielo para encontrarse con "D"
